@@ -1,0 +1,1 @@
+Criar arquivo bot config
